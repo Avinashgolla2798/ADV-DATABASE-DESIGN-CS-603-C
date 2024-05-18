@@ -1,0 +1,2 @@
+ // count
+ db.trips.countDocuments();
